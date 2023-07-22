@@ -10,7 +10,9 @@ Learning outcomes of the project
 
 • Used SQL to discover the businesses that survived the changing market conditions for more than thousands of
 years.
+
 • Joining techniques have been used to merge the useful data since the acquired data has been derived from various
 datasets.
+
 • Data Manipulation tools such as grouping and filtering were used to count oldest businesses by continents and
 categories.
